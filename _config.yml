@@ -30,7 +30,8 @@ twitter_username: jekyllrb
 github_username:  macsimplex
 
 # Build settings
-theme: minima
+#theme: minima
+theme: dieghernan/chulapa
 plugins:
   - jekyll-feed
 
