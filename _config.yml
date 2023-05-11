@@ -31,7 +31,7 @@ github_username:  macsimplex
 
 # Build settings
 #theme: minima
-theme: dieghernan/chulapa
+theme: chulapa-jekyll
 plugins:
   - jekyll-feed
 
